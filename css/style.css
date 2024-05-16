@@ -1,5 +1,7 @@
 .my-box {
   background-color: #ffa600d3;
+  -webkit-box-pack: center;
+  -webkit-box-align: center;
 }
 
 .lol {
